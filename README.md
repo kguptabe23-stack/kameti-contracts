@@ -1,4 +1,4 @@
-# ਕਮੇਟੀ — Blockchain Rotating Savings Platform
+# Kameti — Blockchain Rotating Savings Platform
 
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)](https://soliditylang.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB)](https://reactjs.org/)
